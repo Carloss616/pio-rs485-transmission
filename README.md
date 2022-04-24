@@ -1,4 +1,4 @@
-# Serial 485
+# RS485 Transmission
 
 Serial transmission with `VSCode` and `PlatformIO` extension for arduino.
 
